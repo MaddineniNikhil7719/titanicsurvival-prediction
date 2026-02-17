@@ -1,4 +1,4 @@
-Titanic Survival Prediction using Machine Learning
+#Titanic Survival Prediction using Machine Learning
 
 This project applies machine learning techniques to predict passenger survival on the Titanic dataset. It includes data preprocessing, exploratory data analysis (EDA), feature engineering, and model comparison using algorithms like Logistic Regression, Decision Tree, Random Forest, XGBoost, and more.
 
